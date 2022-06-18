@@ -1,5 +1,10 @@
 # minecraftsevenv2-extended
 A large extension of font “Minecraft Seven v2”.
+### CJK Characters
+All the characters are ranged in 13\*13 squares. Some characters with many H or S strokes will be simplified and/or zipped.
+|Character|Preview|
+|:---|:---|
+|囊(U+56ca)|![U+56ca](https://github.com/cheny0y0/minecraftsevenv2-extended/raw/master/assets/glyphs/bmp/U%2B56ca.bmp)|
 ### Variation Selectors
 ##### For CJK characters and punctuations:
 |Variation Selector|Locale|
