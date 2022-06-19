@@ -4,7 +4,7 @@ A large extension of font “Minecraft Seven v2”.
 All the characters are ranged in 13\*13 squares. Some characters with many H or S strokes will be simplified and/or zipped.
 |Character|Preview|
 |:---|:---|
-|囊(U+56ca)|![U+56ca](https://github.com/cheny0y0/minecraftsevenv2-extended/blob/master/assets/glyphs/bmp/U+2B56.bmp?raw=true)|
+|囊(U+56ca)|![U+56ca](https://github.com/cheny0y0/minecraftsevenv2-extended/blob/master/assets/glyphs/bmp/U+56ca.bmp?raw=true)|
 |編(U+7de8+V1)|![U+7de8+V1](https://github.com/cheny0y0/minecraftsevenv2-extended/blob/master/assets/glyphs/bmp/U+7de8.bmp?raw=true)|
 ### Variation Selectors
 ##### For CJK characters and punctuations:
